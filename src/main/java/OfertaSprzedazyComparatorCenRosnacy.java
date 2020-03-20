@@ -6,7 +6,7 @@ public class OfertaSprzedazyComparatorCenRosnacy implements Comparator<OfertaSpr
     @Override
     public int compare(OfertaSprzedazy o1, OfertaSprzedazy o2) {
 
-        return Integer.compare(o1.getCena(), o2.getCena());
+        return Double.compare(o1.getCena(), o2.getCena());
     }
 
 

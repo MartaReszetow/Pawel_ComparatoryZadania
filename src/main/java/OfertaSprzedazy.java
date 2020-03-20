@@ -9,7 +9,7 @@ import lombok.*;
 public class OfertaSprzedazy {
 
     private String nazwaProduktu;
-    private int cena;
+    private Double cena;
 
     @Override
     public String toString() {

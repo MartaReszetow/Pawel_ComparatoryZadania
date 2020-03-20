@@ -6,7 +6,7 @@ public class OfertaSprzedazyComparatorCenMalejacy implements Comparator<OfertaSp
     @Override
     public int compare(OfertaSprzedazy o1, OfertaSprzedazy o2) {
 
-        return Integer.compare(o2.getCena(), o1.getCena());
+        return Double.compare(o2.getCena(), o1.getCena());
     }
 
 
