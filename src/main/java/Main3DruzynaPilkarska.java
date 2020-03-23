@@ -3,7 +3,7 @@ import java.util.List;
 
 public class Main3DruzynaPilkarska {
     public static void main(String[] args) {
-        
+
         List<DruzynaPilkarska> ekstraKlasa = new ArrayList<>();
         ekstraKlasa.add(new DruzynaPilkarska("Jagiellonia Bialystok", 8.0, 10.0));
         ekstraKlasa.add(new DruzynaPilkarska("Legia Warszawa", 1.0, 1.0));
