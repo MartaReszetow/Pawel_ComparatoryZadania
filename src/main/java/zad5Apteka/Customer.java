@@ -28,10 +28,10 @@ public class Customer {
     @Override
     public String toString() {
         return "{" +
-                "name='" + name + '\'' +
-                ", age=" + age +
-                ", pregnant=" + pregnant +
-                '}' +joiningQueue.getNano();
+                 name  +
+                ", age:" + age +
+                ", pregnant:" + pregnant +
+                '}';
     }
 
 

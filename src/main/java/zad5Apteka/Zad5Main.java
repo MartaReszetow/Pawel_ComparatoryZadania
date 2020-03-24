@@ -11,23 +11,23 @@ public class Zad5Main {
 
 
         try {
-            queueToPharmacy.add(new Customer("Jan", 10, false));
+            queueToPharmacy.add(new Customer("Jan(5)", 10, false));    //5
             Thread.sleep(1);
-            queueToPharmacy.add(new Customer("Stach", 20, false));
+            queueToPharmacy.add(new Customer("Stach(6)", 20, false));  //6
             Thread.sleep(1);
-            queueToPharmacy.add(new Customer("Adam", 30, false));
+            queueToPharmacy.add(new Customer("Adam(7)", 30, false));   //7
             Thread.sleep(1);
-            queueToPharmacy.add(new Customer("Kuba", 40, false));
+            queueToPharmacy.add(new Customer("Kuba(8)", 40, false));   //8
             Thread.sleep(1);
-            queueToPharmacy.add(new Customer("Wojtek", 50, false));
+            queueToPharmacy.add(new Customer("Wojtek(9)", 50, false)); //9
             Thread.sleep(1);
-            queueToPharmacy.add(new Customer("Wojtek", 60, false));
+            queueToPharmacy.add(new Customer("Wojtek(3)", 60, false)); //3
             Thread.sleep(1);
-            queueToPharmacy.add(new Customer("Ania", 80, true));
+            queueToPharmacy.add(new Customer("Ania(1)", 80, true));    //1
             Thread.sleep(1);
-            queueToPharmacy.add(new Customer("Kasia", 70, false));
+            queueToPharmacy.add(new Customer("Kasia(4)", 70, false));  //4
             Thread.sleep(1);
-            queueToPharmacy.add(new Customer("Basia", 15, true));
+            queueToPharmacy.add(new Customer("Basia(2)", 15, true));   //2
 
         } catch (InterruptedException e) {
             e.printStackTrace();
