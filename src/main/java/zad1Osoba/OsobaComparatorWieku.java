@@ -1,3 +1,7 @@
+package zad1Osoba;
+
+import zad1Osoba.Osoba;
+
 import java.util.Comparator;
 
 public class OsobaComparatorWieku implements Comparator<Osoba> {

@@ -1,3 +1,7 @@
+package zad2OfertaSprzedazy;
+
+import zad2OfertaSprzedazy.OfertaSprzedazy;
+
 import java.util.Comparator;
 
 public class OfertaSprzedazyComparatorCenRosnacy implements Comparator<OfertaSprzedazy> {

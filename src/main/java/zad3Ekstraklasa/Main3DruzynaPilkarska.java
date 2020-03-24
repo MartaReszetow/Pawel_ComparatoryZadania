@@ -1,3 +1,9 @@
+package zad3Ekstraklasa;
+
+import zad3Ekstraklasa.DruzynaPilkarska;
+import zad3Ekstraklasa.DruzynaPilkarskaComparatorProporcja;
+import zad3Ekstraklasa.DruzynaPilkarskaComparatorRanking;
+
 import java.util.ArrayList;
 import java.util.List;
 

@@ -1,3 +1,5 @@
+package zad1Osoba;
+
 import lombok.*;
 
 @Getter

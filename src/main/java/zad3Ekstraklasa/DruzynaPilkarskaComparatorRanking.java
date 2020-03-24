@@ -1,3 +1,7 @@
+package zad3Ekstraklasa;
+
+import zad3Ekstraklasa.DruzynaPilkarska;
+
 import java.util.Comparator;
 
 public class DruzynaPilkarskaComparatorRanking implements Comparator<DruzynaPilkarska> {

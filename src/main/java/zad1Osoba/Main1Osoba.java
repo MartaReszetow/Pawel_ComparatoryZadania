@@ -1,3 +1,5 @@
+package zad1Osoba;
+
 import java.util.ArrayList;
 import java.util.List;
 

@@ -1,5 +1,10 @@
+package zad4Fifa;
+
+import zad4Fifa.Fifa;
+
 import java.util.ArrayList;
 import java.util.Collections;
+import java.util.Comparator;
 import java.util.List;
 
 public class Main4Fifa {
@@ -21,6 +26,7 @@ public class Main4Fifa {
         System.out.println("tabela wg naszego rankingu:");
         Collections.sort(ekstraKlasaFifaranking);
         System.out.println(ekstraKlasaFifaranking);
+
 
     }
 }

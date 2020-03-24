@@ -1,3 +1,5 @@
+package zad2OfertaSprzedazy;
+
 import lombok.*;
 
 @Setter

@@ -1,3 +1,5 @@
+package zad2OfertaSprzedazy;
+
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
@@ -18,10 +20,10 @@ public class Main2OfertaSprzedazy {
    /*     System.out.println("Przed posortowaniem:");
         System.out.println(listaSprzedazy);
         System.out.println("Po posortowaniu rosnąco:");
-        OfertaSprzedazyComparatorCen.wybierzMetodeSortowania(listaSprzedazy, true);
+        zad2OfertaSprzedazy.OfertaSprzedazyComparatorCen.wybierzMetodeSortowania(listaSprzedazy, true);
         System.out.println(listaSprzedazy);
         System.out.println("Po posortowaniu malejaco:");
-        OfertaSprzedazyComparatorCen.wybierzMetodeSortowania(listaSprzedazy, false);
+        zad2OfertaSprzedazy.OfertaSprzedazyComparatorCen.wybierzMetodeSortowania(listaSprzedazy, false);
         System.out.println(listaSprzedazy);
    */
 

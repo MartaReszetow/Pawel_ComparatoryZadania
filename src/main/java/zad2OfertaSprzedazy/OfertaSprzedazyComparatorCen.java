@@ -1,3 +1,7 @@
+package zad2OfertaSprzedazy;
+
+import zad2OfertaSprzedazy.OfertaSprzedazy;
+
 import java.util.List;
 
 public class OfertaSprzedazyComparatorCen {
